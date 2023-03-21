@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Ollie-Moss/Pair-Coding#readme",
   "dependencies": {
-    "moment-timezone": "^0.5.41",
-    "nodemon": "^2.0.21"
+    "moment-timezone": "^0.5.41"
   }
 }
